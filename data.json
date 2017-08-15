@@ -1,0 +1,18 @@
+{"candidate":{
+ "Candidate Name":"Rajiv Gandhi",
+ "Job Title":"UI Developer",
+ "Date":"06-19-2017",
+ "Email":"rajiv@rgukt.in",
+ "Phone":"9876543210",
+ "Skype":"Rajiv Gandhi@Skype"
+             },
+ "interviewr":{ "Interviewr Name":"Srishailam Dasari",
+               "Phone":"2485905099"
+              },
+ "Recruiter":{
+     "Recruiter Name":"Bill",
+      "Mobile Phone":"9876543210",
+     "Skype":"Bill@Skype",
+     "Office Phone":"1234567890"
+ }    
+}

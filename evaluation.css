@@ -1,0 +1,92 @@
+.header{
+    background-color:powderblue;
+    border-bottom:5px solid cadetblue;
+    
+}
+.h1size{
+    font-size:62px;
+
+}
+.icon{
+    font-size: 50px;
+    margin:50px 40px 15px 40px;
+}
+.border{
+    border-top: 5px solid ;
+    border-bottom: 5px solid ;
+    border-left:3px solid ;
+    border-right: 3px solid ;
+    border-color: cadetblue;
+    
+}
+.bckgr{
+    background-color: powderblue;
+}
+.icontxt{
+    font-size: 20px;
+}
+.icontext{
+    margin:0px 0px;
+}
+a.menu{
+    text-decoration: none;
+    display: block;
+    padding:20px;
+}
+a:hover{
+    text-decoration: none;
+}
+.tablecell{
+    margin:3px;
+    display: table-cell;
+    border: 1px solid cadetblue;
+    padding:2px 8px;
+    border-spacing: 3px;
+}
+.borderspace{
+        border-spacing: 3px;
+}
+.divinline{
+    display: inline;
+}
+.direction{
+    writing-mode:vertical-rl;
+    transform: rotate(180deg);
+    
+}
+.margin{
+        margin-bottom: 10px;
+}
+.marginTop{
+        margin-Top: 10px;
+}
+.paddingTop{
+    padding-top: 60px;
+
+}
+#overall,#general{
+    display: none;
+}
+.zeropadding{
+    padding:0px;
+}
+ul li{
+    list-style-type:none;
+    display:inline;
+}
+#ddd1{
+ font-size: 16px;   
+}
+.norelative{
+    position: static;
+}
+.popup{
+    position: absolute;
+    top:90px;
+    left:250px;
+    z-index: 1;
+    height: 600px;
+    width:800px;
+    display: none;
+    background-color: cadetblue;
+}
